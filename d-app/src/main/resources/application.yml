@@ -1,0 +1,12 @@
+server:
+  port: 18102
+spring:
+  application:
+    name: dental-clinic
+  mvc:
+    async:
+      request-timeout: 180s
+d:
+  assistant:
+    harness-base-url: http://127.0.0.1:8090
+    agent-id: dental-copilot

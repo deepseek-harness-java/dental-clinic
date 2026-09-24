@@ -1,0 +1,6 @@
+id: dental-copilot
+name: AI 牙科诊所助手
+version: 1.0.0
+author: xfg-studio
+description: AI 牙科诊所助手，支持医生排班查询、挂号预约（含加号规则）、就诊记录查询、价目与医保支付估算、停诊与运营统计。
+entrypoint: cn.xiaofuge.d.plugin.DentalPlugin
